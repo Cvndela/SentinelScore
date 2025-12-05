@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/-SQL-White?style=plastic&logo=postgresql&logoColor=black&logoSize=auto&color=white)
 # SentinelScore — Real Time Fraud & ATO Rule Engine
 **Creator: Alex Chicaiza**\
-**LinkedIn: www.linkedin.com/in/alex-chicaiza-a61631196**\
+**LinkedIn: www.linkedin.com/in/alex-chicaiza-a61631196** \
 ***GitHub: @Cvndela***
 
 SentinelScore is a fully deterministic, SQL-backed fraud-risk engine built to simulate how an ATP-grade payments or banking platform evaluates user activity, device behavior, and transactional risk signals in real time.
